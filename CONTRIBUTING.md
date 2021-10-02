@@ -6,6 +6,12 @@
 
 +   [飞龙](https://github.com/wizardforcel)：562826179
 
+## 可能有用的链接
+
++   两性类书籍整理
+    +   [Gitee](https://gitee.com/ixinzhi/loving-books)
+    +   [Github](https://github.com/ixinzhi/loving-books)
+
 ## 章节列表
 
 见[整体进度](https://github.com/apachecn/the-rational-male-zh/issues/1)。
