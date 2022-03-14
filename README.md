@@ -4,9 +4,9 @@
 >
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 热衷于证明 SB 是 SB 的，自己也是 SB。--SB 第四定律
+> 热衷于证明 SB 是 SB 的，自己也是 SB。——SB 第四定律
 >
-> 永远不要认为事实会教育 SB，因为他们对事实的解读方式和你不一样。--SB 第五定律
+> 永远不要认为事实会教育 SB，因为他们对事实的解读方式和你不一样。——SB 第五定律
 
 * [在线阅读](https://trm.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
